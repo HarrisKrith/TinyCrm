@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCRM", "TinyCRM.csproj", "{1D4480CE-4652-488C-8A59-DC0B57E67324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4480CE-4652-488C-8A59-DC0B57E67324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4480CE-4652-488C-8A59-DC0B57E67324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4480CE-4652-488C-8A59-DC0B57E67324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4480CE-4652-488C-8A59-DC0B57E67324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC2FBE0-F82A-4D7E-9797-C551B542073C}
+	EndGlobalSection
+EndGlobal

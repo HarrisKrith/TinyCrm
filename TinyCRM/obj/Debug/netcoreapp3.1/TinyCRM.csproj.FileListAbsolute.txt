@@ -1,0 +1,13 @@
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\bin\Debug\netcoreapp3.1\TinyCRM.exe
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\bin\Debug\netcoreapp3.1\TinyCRM.deps.json
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\bin\Debug\netcoreapp3.1\TinyCRM.runtimeconfig.json
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\bin\Debug\netcoreapp3.1\TinyCRM.runtimeconfig.dev.json
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\bin\Debug\netcoreapp3.1\TinyCRM.dll
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\bin\Debug\netcoreapp3.1\TinyCRM.pdb
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.csprojAssemblyReference.cache
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.csproj.CoreCompileInputs.cache
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.AssemblyInfoInputs.cache
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.AssemblyInfo.cs
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.dll
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.pdb
+C:\Users\Ninel\Desktop\TinyCRM\TinyCRM\obj\Debug\netcoreapp3.1\TinyCRM.genruntimeconfig.cache
